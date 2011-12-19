@@ -16,7 +16,7 @@ setup(
     author_email='ryan@ryanbalfanz.net',
     description='Prettify your HTML.',
     long_description=__doc__,
-    packages=['htmlpretty.py'],
+    # packages=['htmlpretty.py'],
     # namespace_packages=['htmlpretty'],
     zip_safe=False,
     platforms='any',
